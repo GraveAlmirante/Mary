@@ -1,0 +1,8 @@
+YOUTUBE_DL PYTHON API:
+https://github.com/ytdl-org/youtube-dl/blob/master/README.md#embedding-youtube-dl
+
+
+PYTHON re MODULE
+https://docs.python.org/es/3/library/re.html
+
+

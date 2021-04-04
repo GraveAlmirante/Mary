@@ -1,0 +1,9 @@
+
+Debemos usar el youtube-dlc para descargar los subtítulos, considerando los siguientes parámetros:
+1- Formato VTT (default)
+2- Idioma (--sub-lang "es")
+3- Origen de subtítulos (--write-auto-sub || ----write-sub)
+4- Cancelar la descarga del video (--skip-download)
+5- Ajustar VTT (--convert-subs=srt)
+
+youtube-dlc --sub-lang es --write-auto-sub --skip-download []
